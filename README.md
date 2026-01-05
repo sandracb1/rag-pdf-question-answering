@@ -17,3 +17,5 @@ streamlit run app.py
 ### Streamlit Interface
 ![Streamlit UI](streamlit_ui.png)
 
+### Question Answering
+![Answer Output](Question_answering.png)
