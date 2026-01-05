@@ -15,4 +15,4 @@ streamlit run app.py
 ## Screenshots
 
 ### Streamlit Interface
-![Streamlit UI](Streamlit UI/ui.png)
+![Streamlit UI](Streamlit UI.png)
