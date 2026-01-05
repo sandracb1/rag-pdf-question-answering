@@ -12,3 +12,7 @@ Python, LangChain, FAISS, Hugging Face, Streamlit
 
 ## Run
 streamlit run app.py
+## Screenshots
+
+### Streamlit Interface
+![Streamlit UI](images/ui.png)
